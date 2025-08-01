@@ -1,8 +1,8 @@
-## about me
+## 👋 about me
 I am in Github to become a *developer*.
 
-## Current focus
+## 🌱 Current focus
 Living.
 
-## Reach me
+## 📫 Reach me
 linkedin.com/in/partha-sarathi-544851257
